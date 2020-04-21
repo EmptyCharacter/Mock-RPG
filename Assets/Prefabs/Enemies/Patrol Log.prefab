@@ -169,6 +169,7 @@ MonoBehaviour:
   enemyName: Lance Of Logs
   baseAttack: 1
   moveSpeed: 2
+  deathEffect: {fileID: 0}
   myRigidbody: {fileID: 0}
   target: {fileID: 0}
   chaseRadius: 4
